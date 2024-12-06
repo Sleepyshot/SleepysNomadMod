@@ -35,12 +35,15 @@ class SLP_Pouches_ColorBase extends Container_Base
 };
 
 
-class SLP_Pouches_Black : SLP_Pouches_ColorBase
+class SLP_Pouches_Medical : SLP_Pouches_ColorBase
 {
 };
-class SLP_Pouches_Camo : SLP_Pouches_ColorBase
+class SLP_Pouches_Nomad : SLP_Pouches_ColorBase
 {
 };
-class SLP_Pouches_Winter : SLP_Pouches_ColorBase
+class SLP_Pouches_Military : SLP_Pouches_ColorBase
+{
+};
+class SLP_Pouches_Fishing : SLP_Pouches_ColorBase
 {
 };
